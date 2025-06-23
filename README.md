@@ -1,5 +1,5 @@
 SOBRE O PROJETO<br>
-O projeto visa a aplicação de modelos de otmização para a reconstrução de sinal do calorímetro do Atlas Experiment no contexto do LHC.
+Este é um Projeto de Iniciação Científica. O projeto visa a aplicação de modelos de otmização para a reconstrução de sinal do calorímetro do Atlas Experiment no contexto do LHC.
 <br><br>
 SOBRE O ARQUIVO<br>
 Introdução<br>
